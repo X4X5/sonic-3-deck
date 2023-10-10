@@ -1,0 +1,9 @@
+{
+  "name": "Sonic Superstars Level Select",
+  "description": "This was revealed to be the level select theme for Sonic Superstars. Theme by SEGA Sound Team.",
+  "author": "X4X5",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": [],
+}
